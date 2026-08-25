@@ -1,0 +1,29 @@
+# Segredos e credenciais: o versionamento deve ignorar estes padrões comuns.
+# Isto REDUZ o risco, não o elimina: confira a lista do `git status` antes de
+# confirmar um commit (o ritual de fechar o dia mostra o que vai entrar).
+*.senha
+*.token
+*.pem
+*.key
+*.pfx
+id_rsa*
+!id_rsa*.pub
+id_ed25519*
+!id_ed25519*.pub
+.env
+.env.*
+!.env.example
+credenciais*
+credentials*
+secrets*
+*.secret
+
+# Configuração local do Claude Code que não deve viajar
+.claude/settings.local.json
+CLAUDE.local.md
+
+# Temporários do Office e do sistema
+~$*
+*.tmp
+Thumbs.db
+desktop.ini

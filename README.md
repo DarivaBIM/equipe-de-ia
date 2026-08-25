@@ -1,7 +1,8 @@
 # Sua equipe de IA cabe num arquivo de texto
 
-Modelo e checklist para criar assistentes de inteligência artificial com **papel definido** — sem
-programar.
+Modelo e checklist para criar assistentes de inteligência artificial com **papel definido**, sem
+programar. E o **sistema inicial**: uma pasta pronta para copiar, com regras da casa, gerência,
+frentes e diário.
 
 Material da palestra apresentada no **Centro Universitário do Triângulo (UNITRI)**, em Uberlândia,
 no dia **25 de agosto de 2026**, por **Matheus Dariva**.
@@ -12,6 +13,8 @@ no dia **25 de agosto de 2026**, por **Matheus Dariva**.
 
 | Arquivo | Para que serve |
 |---|---|
+| **[sistema-inicial/](sistema-inicial/)** | 🆕 A pasta pronta para copiar: regras da casa, uma gerência, três frentes de exemplo e o diário que dá memória à IA. Comece pelo README dela |
+| **[GUIA-COMPLETO.md](GUIA-COMPLETO.md)** | 🆕 Do computador vazio ao sistema rodando: o que instalar (terminal, Claude Code, Git), configurações, permissões na régua certa, celular, MCPs e vocabulário, escrito para quem nunca programou |
 | **[MODELO-ASSISTENTE.md](MODELO-ASSISTENTE.md)** | A ficha em branco. Copie, preencha de cima para baixo, e você tem um assistente |
 | **[CHECKLIST-VERIFICACAO.md](CHECKLIST-VERIFICACAO.md)** | Os testes dos três erros mais comuns, e as perguntas que se faz a um número |
 | **[exemplos/](exemplos/)** | Três assistentes reais, preenchidos, que trabalham em sequência |
