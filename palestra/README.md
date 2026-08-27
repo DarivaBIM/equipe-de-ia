@@ -4,7 +4,7 @@
 Centro Universitário do Triângulo (UNITRI), Uberlândia, 25 de agosto de 2026. Matheus Dariva.
 
 📄 **[sua-equipe-de-ia-cabe-num-arquivo-de-texto-unitri-2026-08-25.pdf](sua-equipe-de-ia-cabe-num-arquivo-de-texto-unitri-2026-08-25.pdf)**
-*(exportado em vetor a partir do original: texto selecionável e imagens em alta; por isso o arquivo é grande)*
+*(os dez slides, com texto selecionável)*
 
 O deck acompanha uma linha do tempo de maio a agosto de 2026: como a operação saía de conversas
 que recomeçavam do zero, o desenho do sistema de papéis, a primeira instalação para outra pessoa
