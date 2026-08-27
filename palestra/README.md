@@ -15,7 +15,7 @@ O caminho prático apresentado no final da palestra está neste repositório: co
 ## Sobre os números do deck
 
 Dois números do slide "A prova real" merecem contexto. *"Cerca de um terço do meu método
-atravessou"* é **estimativa do autor**, não medição: a parte contável são cinco pares de
+atravessou"* é **estimativa do autor**, não medição: a parte contável são seis pares de
 regra transferida×cortada no log daquela implantação. E *"uma gerência e três frentes reais"*
 é a contagem daquela instalação específica, registrada no log de decisões dela.
 
