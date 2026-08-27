@@ -18,6 +18,7 @@ no dia **25 de agosto de 2026**, por **Matheus Dariva**.
 | **[MODELO-ASSISTENTE.md](MODELO-ASSISTENTE.md)** | A ficha em branco. Copie, preencha de cima para baixo, e você tem um assistente |
 | **[CHECKLIST-VERIFICACAO.md](CHECKLIST-VERIFICACAO.md)** | Os testes dos três erros mais comuns, e as perguntas que se faz a um número |
 | **[exemplos/](exemplos/)** | Três assistentes reais, preenchidos, que trabalham em sequência |
+| **[palestra/](palestra/)** | 🎤 A apresentação da palestra, em PDF, com a linha do tempo de maio a hoje |
 
 ## A ideia em uma frase
 
