@@ -1,0 +1,22 @@
+# P24 · Rever a alteração com outro autor
+
+Use no **cliente diferente daquele que escreveu V2**. Caminho A: Claude examina a correção
+do ChatGPT. Caminho B: ChatGPT examina a correção do Claude. Forneça os documentos e fontes;
+uma conversa nova recebe P00 primeiro. O recorte é a correção e seus efeitos no restante da pauta.
+
+```text
+Seu papel agora é CONFERÊNCIA da pauta V2 escrita pelo outro cliente.
+Autor de V2 informado pelo professor: [CLIENTE AUTOR DE V2].
+V1: [COLE A VERSÃO ANTERIOR]
+PARECER E DECISÃO HUMANA: [COLE OS ACHADOS E O QUE FOI AUTORIZADO]
+V2: [COLE A VERSÃO COMPLETA CORRIGIDA]
+FONTES: F1, F2 e F3 fornecidas nesta conversa.
+
+Em até 120 palavras, confira se cada achado aceito foi corrigido ou permanece aberto.
+Verifique se a correção introduziu novo erro, removeu uma lacuna ou contrariou outra parte.
+Cite fonte/item e trecho para sustentar cada conclusão.
+Não edite V2, não invente achado e não substitua a decisão humana.
+Se você for o autor da alteração em V2, pare e peça que a revisão vá ao outro cliente.
+Se faltar documento ou não for possível confirmar a versão, registre revisão pendente.
+Ao final, indique: correções conferidas; pendências; recorte e limites da revisão.
+```

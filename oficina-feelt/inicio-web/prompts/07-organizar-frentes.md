@@ -1,0 +1,18 @@
+# G01 · Gerência organiza as frentes
+
+Demonstração do apresentador ou continuação após a prática. Use P00 com o papel Gerência.
+A gerência organiza; as outras conversas recebem seus próprios papéis e materiais. Este pedido
+não instala ferramentas, abre conversas ou dispara trabalho automaticamente.
+
+```text
+No papel GERÊNCIA, ajude-me a organizar uma equipe contínua para os processos docentes.
+O professor será o dono das decisões. Teremos Produção para documentos e Conferência
+para verificar fatos e fontes. Use os acordos FEELT-WEB-1 que forneci.
+
+Em até 120 palavras, proponha para cada frente: missão permanente, material de entrada,
+entrega e condição de parada. Use a pauta do laboratório apenas como primeira tarefa;
+não transforme essa tarefa na identidade permanente da frente.
+Indique o que eu preciso transferir manualmente entre as conversas e como registrar
+a versão, o autor e o próximo passo. As duas frentes usam os mesmos acordos comuns.
+Não produza a pauta, altere acordos ou dispare outra conversa. Aguarde minha decisão.
+```

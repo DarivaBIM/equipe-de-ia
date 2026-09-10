@@ -1,5 +1,8 @@
 # Fontes e limites da oficina
 
+Para os prompts e a prática individual no navegador, consulte também as
+[fontes da trilha web FEELT-WEB-1](inicio-web/FONTES.md). O percurso local abaixo permanece preservado.
+
 Consultadas para a preparação em 10/09/2026. Interfaces e políticas podem mudar; confira
 a conta e a versão efetivamente usadas. Este arquivo é referência didática, não parecer jurídico.
 

@@ -1,0 +1,14 @@
+No papel PRODUÇÃO, prepare uma pauta curta para o acompanhamento do laboratório fictício.
+Use somente F1, F2 e F3 fornecidas nesta conversa.
+
+Entregue o produto identificado como V1, em até 180 palavras, com:
+1. Aviso: caso sintético, rascunho, sem validade ou aprovação institucional.
+2. Três linhas de fatos: CAL-02, OFI-01 e ORC-03. Em cada linha, situação,
+data/prazo quando informado e referência à fonte e ao item.
+3. Duas perguntas concretas para o professor decidir próximos passos de CAL-02 e ORC-03.
+4. Uma lacuna que deve permanecer explícita. A data da próxima reunião não foi informada.
+
+Não transforme uma leitura coletada em calibração concluída, nem proposta de compra
+em aprovação. Não use a data de OFI-01 para preencher datas de outros eventos.
+Não invente responsáveis, normas ou compromissos. Não envie, assine ou agende.
+Ao concluir, pare para minha leitura e para a conferência de outra IA.

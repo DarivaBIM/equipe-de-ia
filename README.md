@@ -7,8 +7,10 @@ frentes e diário.
 Material da palestra apresentada no **Centro Universitário do Triângulo (UNITRI)**, em Uberlândia,
 no dia **25 de agosto de 2026**, por **Matheus Dariva**.
 
-**Oficina FEELT/UFU — 10/09/2026:** o novo [kit de processos docentes com Claude e Codex](oficina-feelt/README.md)
-traz uma casa didática, fontes sintéticas, prompts, revisão e handoff. O material UNITRI abaixo permanece disponível.
+**Oficina FEELT/UFU — 10/09/2026:** [comece pela trilha web, recomendada para iniciantes](oficina-feelt/inicio-web/README.md).
+Ela usa fontes sintéticas, prompts, conferência e decisão humana, sem instalação na aula.
+O [percurso local com Claude Code e Codex](oficina-feelt/README.md) permanece como extensão.
+O material UNITRI abaixo continua disponível com sua origem preservada.
 
 ---
 

@@ -1,0 +1,10 @@
+OBJETIVO: preparar uma pauta curta de acompanhamento de laboratório para eu decidir próximos passos.
+CONTEXTO: caso sintético FEELT-WEB-1; nenhuma compra ou data nova está autorizada.
+PAPEL: PRODUÇÃO. Use somente F1, F2 e F3 que forneci nesta conversa.
+ENTREGA: rascunho V1, até 180 palavras. Inclua aviso de caso fictício, três linhas
+de fatos (CAL-02, OFI-01 e ORC-03), fonte e item em cada linha, duas perguntas
+para decisão humana e uma informação que permaneça ausente.
+LIMITES: não invente prazo, conclusão, aprovação, responsável ou norma.
+Não confunda a data de OFI-01 com a data da próxima reunião ou com a conclusão de CAL-02.
+CONFERÊNCIA: preserve as situações das fontes; diferencie fato, proposta e lacuna.
+Não envie nem assine. Ao terminar, aguarde minha leitura e a conferência do outro cliente.

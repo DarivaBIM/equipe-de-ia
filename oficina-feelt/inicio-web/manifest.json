@@ -1,0 +1,219 @@
+{
+  "version": "FEELT-WEB-1",
+  "date": "2026-09-10",
+  "language": "pt-BR",
+  "entry": "README.md",
+  "canonical_team": "equipe.md",
+  "sources": "fontes-do-caso.md",
+  "content_model": "Os prompts usam o pacote comum P00; não contêm cópias independentes dos acordos.",
+  "exercise_minutes": {
+    "planned_min": 12,
+    "planned_max": 15,
+    "not_a_latency_guarantee": true
+  },
+  "production_word_limit": 180,
+  "review_word_limit": 120,
+  "practice_order": [
+    "P00",
+    "P10",
+    "P00",
+    "P20",
+    "P21",
+    "P22 ou P23",
+    "P24",
+    "P30",
+    "P40"
+  ],
+  "web_route": {
+    "producer": "ChatGPT",
+    "reviewer": "Claude",
+    "transport": "manual, com texto ou anexos lidos e versão identificada"
+  },
+  "local_route": {
+    "producer": "Claude Code",
+    "reviewer": "Codex",
+    "guide": "local-opcional.md",
+    "preserved_directory": "../casa",
+    "original_contract": true
+  },
+  "review_status": "Autoria Codex; gate independente desta versão será registrado fora deste manifesto, sem aprovação presumida.",
+  "prompts": [
+    {
+      "id": "P00",
+      "path": "prompts/00-preparar-conversa.md",
+      "title": "Preparar uma conversa",
+      "role": "qualquer papel",
+      "messages": 1,
+      "copy_paths": [
+        "copiar/P00-PRODUCAO.txt",
+        "copiar/P00-CONFERENCIA.txt",
+        "copiar/P00-GERENCIA.txt"
+      ],
+      "alternatives": [
+        {
+          "id": "P00-ANEXOS",
+          "canonical_path": "prompts/00-preparar-com-anexos.md",
+          "copy_path": "copiar/P00-ANEXOS.txt",
+          "word_limit": 80,
+          "words": 69,
+          "inputs": [
+            "equipe.md",
+            "fontes-do-caso.md"
+          ],
+          "mode": "anexos lidos; alternativa aos P00 completos por colagem"
+        }
+      ]
+    },
+    {
+      "id": "E01",
+      "path": "prompts/01-pedido-comum.md",
+      "title": "Pedido comum",
+      "role": "Produção",
+      "messages": 1,
+      "copy_paths": [
+        "copiar/E01.txt"
+      ]
+    },
+    {
+      "id": "E02",
+      "path": "prompts/02-pedido-estruturado.md",
+      "title": "Pedido estruturado",
+      "role": "Produção",
+      "messages": 1,
+      "copy_paths": [
+        "copiar/E02.txt"
+      ]
+    },
+    {
+      "id": "E03",
+      "path": "prompts/03-pedido-com-exemplo.md",
+      "title": "Pedido com exemplo",
+      "role": "Produção",
+      "messages": 1,
+      "copy_paths": [
+        "copiar/E03.txt"
+      ]
+    },
+    {
+      "id": "E04",
+      "path": "prompts/04-pedido-em-etapas.md",
+      "title": "Pedido em duas mensagens",
+      "role": "Produção",
+      "messages": 2,
+      "copy_paths": [
+        "copiar/E04-1.txt",
+        "copiar/E04-2.txt"
+      ]
+    },
+    {
+      "id": "E05",
+      "path": "prompts/05-direcao-aberta.md",
+      "title": "Direção Aberta",
+      "role": "Gerência ou Produção",
+      "messages": 1,
+      "copy_paths": [
+        "copiar/E05.txt"
+      ]
+    },
+    {
+      "id": "E06",
+      "path": "prompts/06-corpo-padrao.md",
+      "title": "Corpo padrão para adaptar",
+      "role": "qualquer papel",
+      "messages": 1,
+      "copy_paths": [
+        "copiar/E06.txt"
+      ]
+    },
+    {
+      "id": "P10",
+      "path": "prompts/10-produzir.md",
+      "title": "Produzir a pauta curta",
+      "role": "Produção",
+      "messages": 1,
+      "copy_paths": [
+        "copiar/P10.txt"
+      ]
+    },
+    {
+      "id": "P20",
+      "path": "prompts/20-conferir.md",
+      "title": "Conferir V1",
+      "role": "Conferência",
+      "messages": 1,
+      "copy_paths": [
+        "copiar/P20.txt"
+      ]
+    },
+    {
+      "id": "P21",
+      "path": "prompts/21-avaliar-parecer.md",
+      "title": "Avaliar o parecer para decisão humana",
+      "role": "apoio ao Professor",
+      "messages": 1,
+      "copy_paths": [
+        "copiar/P21.txt"
+      ]
+    },
+    {
+      "id": "P22",
+      "path": "prompts/22-corrigir-com-autor.md",
+      "title": "Autor corrige",
+      "role": "Produção; mantém autor",
+      "messages": 1,
+      "copy_paths": [
+        "copiar/P22.txt"
+      ]
+    },
+    {
+      "id": "P23",
+      "path": "prompts/23-corrigir-com-revisor.md",
+      "title": "Revisor corrige com troca de autoria",
+      "role": "Conferência passa a Produção",
+      "messages": 1,
+      "copy_paths": [
+        "copiar/P23.txt"
+      ]
+    },
+    {
+      "id": "P24",
+      "path": "prompts/24-revisar-correcao.md",
+      "title": "Revisar V2 por outro cliente",
+      "role": "Conferência; diferente do autor de V2",
+      "messages": 1,
+      "copy_paths": [
+        "copiar/P24.txt"
+      ]
+    },
+    {
+      "id": "P30",
+      "path": "prompts/30-decidir-e-registrar.md",
+      "title": "Decisão e registro de seis campos",
+      "role": "Professor decide; IA organiza",
+      "messages": 1,
+      "copy_paths": [
+        "copiar/P30.txt"
+      ]
+    },
+    {
+      "id": "P40",
+      "path": "prompts/40-retomar.md",
+      "title": "Retomar com versão",
+      "role": "papel escolhido; apenas diagnóstico",
+      "messages": 1,
+      "copy_paths": [
+        "copiar/P40.txt"
+      ]
+    },
+    {
+      "id": "G01",
+      "path": "prompts/07-organizar-frentes.md",
+      "title": "Gerência organiza frentes permanentes",
+      "role": "Gerência",
+      "messages": 1,
+      "copy_paths": [
+        "copiar/G01.txt"
+      ]
+    }
+  ]
+}

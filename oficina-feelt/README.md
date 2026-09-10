@@ -1,5 +1,10 @@
 # Oficina FEELT — uma casa, duas IAs, trabalho verificável
 
+**Novo começo recomendado:** [trilha web para iniciantes](inicio-web/README.md), com ChatGPT na
+Produção e Claude na Conferência, prática individual de 12–15 minutos e passagem manual.
+**Esta página preserva o percurso local original**, com Claude Code, Codex e seus formatos de
+relatório/pauta. Instalação e scripts não são necessários para a prática web.
+
 Material didático de **Matheus Dariva / DarivaBIM**, preparado para a aula de 10/09/2026.
 Esta oficina complementa o material UNITRI existente no repositório; ele continua preservado.
 

@@ -1,0 +1,14 @@
+[
+  {
+    "source": "../casa/fontes/01-reuniao-sintetica.md",
+    "sha256": "6AFDD6743D1D41EFC311AF8A951BED27756CB0C9FDD7224751236803B032E072"
+  },
+  {
+    "source": "../casa/fontes/02-calendario-sintetico.md",
+    "sha256": "BE261F31E57A78AF20D42EC00792449A62AAB79D1AD583C65B2DA26D9F73A3AE"
+  },
+  {
+    "source": "../casa/fontes/03-nota-tecnica-sintetica.md",
+    "sha256": "FD48C1B1D1D5269DCC412399D3C80BDCF72C5A51E0C06A1320D66C87F867E835"
+  }
+]
