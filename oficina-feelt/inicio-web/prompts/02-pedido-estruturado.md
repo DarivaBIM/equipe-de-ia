@@ -4,14 +4,13 @@ Use após P00. Objetivo diz para quê; contexto delimita o caso; fontes sustenta
 formato permite comparar; limites reservam decisões; critério permite conferir.
 
 ```text
-OBJETIVO: preparar uma pauta curta de acompanhamento de laboratório para eu decidir próximos passos.
-CONTEXTO: caso sintético FEELT-WEB-1; nenhuma compra ou data nova está autorizada.
-PAPEL: PRODUÇÃO. Use somente F1, F2 e F3 que forneci nesta conversa.
-ENTREGA: rascunho V1, até 180 palavras. Inclua aviso de caso fictício, três linhas
-de fatos (CAL-02, OFI-01 e ORC-03), fonte e item em cada linha, duas perguntas
-para decisão humana e uma informação que permaneça ausente.
+OBJETIVO: preparar uma pauta para eu decidir próximos passos.
+CONTEXTO: laboratório sintético FEELT-WEB-1; decisões permanecem humanas.
+PAPEL: PRODUÇÃO. Use somente F1/F2/F3 fornecidas.
+ENTREGA: V1, até 180 palavras: aviso de caso fictício; três fatos
+(CAL-02, OFI-01, ORC-03), com fonte/item; duas perguntas para decisão; uma lacuna.
 LIMITES: não invente prazo, conclusão, aprovação, responsável ou norma.
-Não confunda a data de OFI-01 com a data da próxima reunião ou com a conclusão de CAL-02.
+A data de OFI-01 não preenche a próxima reunião nem a conclusão de CAL-02.
 CONFERÊNCIA: preserve as situações das fontes; diferencie fato, proposta e lacuna.
-Não envie nem assine. Ao terminar, aguarde minha leitura e a conferência do outro cliente.
+Não envie nem assine. Aguarde minha leitura e a conferência do outro cliente.
 ```

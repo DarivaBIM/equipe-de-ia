@@ -27,7 +27,7 @@
     "prompt": "E02",
     "source": "prompts/02-pedido-estruturado.md",
     "file": "copiar/E02.txt",
-    "sha256": "807C55FF0BB0619EF06C1879470661B7250F2F9086BD5125B9D6D595FEC629B8"
+    "sha256": "D1E44D55EE46CE92F9EE912139DC576846B489CBE319251D3AD6F0E1F1EA6AC6"
   },
   {
     "prompt": "E03",
@@ -75,13 +75,13 @@
     "prompt": "P21",
     "source": "prompts/21-avaliar-parecer.md",
     "file": "copiar/P21.txt",
-    "sha256": "131D31E030AD21A8454B3EA5DE929A5F00F48E0C8A1C778BF944157D0DE83D51"
+    "sha256": "992364E6AE7941E5045DE82FFD5EEF18C0D591F3A4D7C680AE52C9E72FBDC1A9"
   },
   {
     "prompt": "P22",
     "source": "prompts/22-corrigir-com-autor.md",
     "file": "copiar/P22.txt",
-    "sha256": "EE7B43F219E04733DBCD6A0572BB5749BFD7B6A773754FBFEBD4DE5C41EB0C6A"
+    "sha256": "606FF4B558016B553A7266796EB1F3BAE90E47745C9B80AA7C32CC075A5C8189"
   },
   {
     "prompt": "P23",
