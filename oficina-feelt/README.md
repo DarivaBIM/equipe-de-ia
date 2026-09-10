@@ -146,6 +146,6 @@ O núcleo da aula funciona sem essa extensão e sem comunicação automática en
 
 ## Licença e créditos
 
-Conteúdo autoral desta oficina: [CC BY 4.0](../LICENSE), com crédito a Matheus Dariva / DarivaBIM.
+Conteúdo autoral desta oficina: [CC BY 4.0](LICENSE), com crédito a Matheus Dariva / DarivaBIM.
 Marcas e fontes institucionais pertencem a seus titulares. Os documentos de terceiros citados
 não estão incorporados ao kit nem são relicenciados por esta licença.
