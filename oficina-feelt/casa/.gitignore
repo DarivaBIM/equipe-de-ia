@@ -1,0 +1,29 @@
+# Casa didática: versionar somente os arquivos explicitamente previstos.
+# A lista de sincronização é independente; permitir Git aqui não autoriza envio.
+*
+!.gitignore
+!AGENTS.md
+!CLAUDE.md
+!regras-comuns.md
+!contexto.md
+!estado-atual.md
+!handoff.md
+!papeis/
+!papeis/gerencia.md
+!papeis/gestao.md
+!papeis/pesquisa.md
+!fontes/
+!fontes/01-reuniao-sintetica.md
+!fontes/02-calendario-sintetico.md
+!fontes/03-nota-tecnica-sintetica.md
+!gerencia/
+!gerencia/README.md
+!gerencia/decisoes.md
+!gestao/
+!gestao/README.md
+!gestao/relatorio-verificado.md
+!gestao/pauta-reuniao.md
+!gestao/registro-uso-ia.md
+!pesquisa/
+!pesquisa/README.md
+!pesquisa/parecer.md
