@@ -1,0 +1,24 @@
+# P30 · Decisão humana e registro com seis campos
+
+O professor lê o produto final e o parecer da versão correspondente. Só então preenche sua
+decisão. Se uma revisão não ocorreu, registre a pendência. O nome "conferido para a oficina"
+não significa aprovação institucional. Guarde o registro junto do produto e das fontes.
+
+```text
+Minha decisão após ler a versão [V1 OU V2] e os registros disponíveis é:
+[COLE O QUE ACEITA, O QUE NÃO ACEITA E O QUE CONTINUA PENDENTE].
+
+Organize um registro breve, com exatamente estes seis campos:
+1. Objetivo e uso permitido: tarefa, destinatário e limite de uso.
+2. Produto e versão: identificação, data e onde o professor guardou o texto completo.
+3. Autoria e ferramentas: quem produziu/corrigiu e clientes efetivamente observados;
+   versão de modelo não observada fica "não verificada".
+4. Fontes e verificações: F1/F2/F3 e parecer da versão correta; distinguir
+   autoconferência, revisão por outro cliente e leitura humana realmente realizadas.
+5. Decisão e pendências: minha decisão acima, lacunas e revisões ainda não feitas.
+6. Próximo passo e responsável: ação permitida e o que ainda exige minha autorização.
+
+Não invente aprovação, ganho de tempo, cliente, teste ou leitura humana.
+Não reescreva minha decisão como aprovação institucional. Não envie nem assine.
+Pare após o registro; ele transfere contexto, não dispara outro aplicativo.
+```

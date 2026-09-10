@@ -1,0 +1,122 @@
+[
+  {
+    "prompt": "P00",
+    "source": "prompts/00-preparar-conversa.md",
+    "file": "copiar/P00-PRODUCAO.txt",
+    "sha256": "4DE086C7A59B51C9004DF7BC9DC5BA3E2F12D669131FFE848924DF35B1C89369"
+  },
+  {
+    "prompt": "P00",
+    "source": "prompts/00-preparar-conversa.md",
+    "file": "copiar/P00-CONFERENCIA.txt",
+    "sha256": "338956DCFDD6349C64BC8859B93649E6B166FE4D7C05D1920F0419B0B85EC883"
+  },
+  {
+    "prompt": "P00",
+    "source": "prompts/00-preparar-conversa.md",
+    "file": "copiar/P00-GERENCIA.txt",
+    "sha256": "225F46E751B597583927AC79A738E219BBAB25C3EB0B7EAE76DF37EC06844D6B"
+  },
+  {
+    "prompt": "E01",
+    "source": "prompts/01-pedido-comum.md",
+    "file": "copiar/E01.txt",
+    "sha256": "D69EA0EA88FBD5341095E24217DE56046BFEFAA96FEC71E292F204528C6196B2"
+  },
+  {
+    "prompt": "E02",
+    "source": "prompts/02-pedido-estruturado.md",
+    "file": "copiar/E02.txt",
+    "sha256": "D1E44D55EE46CE92F9EE912139DC576846B489CBE319251D3AD6F0E1F1EA6AC6"
+  },
+  {
+    "prompt": "E03",
+    "source": "prompts/03-pedido-com-exemplo.md",
+    "file": "copiar/E03.txt",
+    "sha256": "03AB63AD99E04F239DE568BCDD1BD6FD58D3F3ED66108EA0981EA10816D136C5"
+  },
+  {
+    "prompt": "E04",
+    "source": "prompts/04-pedido-em-etapas.md",
+    "file": "copiar/E04-1.txt",
+    "sha256": "71E16E0AD786BB39C605033CED8776AA71F2DF39945984E1AC038BB3274E754F"
+  },
+  {
+    "prompt": "E04",
+    "source": "prompts/04-pedido-em-etapas.md",
+    "file": "copiar/E04-2.txt",
+    "sha256": "98BDF9EFD361B0EE7DE99CDEF4B09D527C1326A6F0D9954E60EDEC16DB61C292"
+  },
+  {
+    "prompt": "E05",
+    "source": "prompts/05-direcao-aberta.md",
+    "file": "copiar/E05.txt",
+    "sha256": "48DAF3FB2A1C2FA0C624A96BB062214A9536789EB7421AAA8189ED8B45CD95B1"
+  },
+  {
+    "prompt": "E06",
+    "source": "prompts/06-corpo-padrao.md",
+    "file": "copiar/E06.txt",
+    "sha256": "886152C9703630E792B6E20044C08560DCD111D7344AB17F007F7C90437CE51F"
+  },
+  {
+    "prompt": "P10",
+    "source": "prompts/10-produzir.md",
+    "file": "copiar/P10.txt",
+    "sha256": "C265102308A48953A0DF59F9CF4345290EB1954A9675910B69E7D4EB62DA3778"
+  },
+  {
+    "prompt": "P20",
+    "source": "prompts/20-conferir.md",
+    "file": "copiar/P20.txt",
+    "sha256": "221CEAC8009022519028C39844E4D0922730C668A8744554AE128257BB937535"
+  },
+  {
+    "prompt": "P21",
+    "source": "prompts/21-avaliar-parecer.md",
+    "file": "copiar/P21.txt",
+    "sha256": "992364E6AE7941E5045DE82FFD5EEF18C0D591F3A4D7C680AE52C9E72FBDC1A9"
+  },
+  {
+    "prompt": "P22",
+    "source": "prompts/22-corrigir-com-autor.md",
+    "file": "copiar/P22.txt",
+    "sha256": "606FF4B558016B553A7266796EB1F3BAE90E47745C9B80AA7C32CC075A5C8189"
+  },
+  {
+    "prompt": "P23",
+    "source": "prompts/23-corrigir-com-revisor.md",
+    "file": "copiar/P23.txt",
+    "sha256": "7490CEFCDFF4F55C2A7954094B17CCDC35F0B2DF756326664CB5965B0EC524DE"
+  },
+  {
+    "prompt": "P24",
+    "source": "prompts/24-revisar-correcao.md",
+    "file": "copiar/P24.txt",
+    "sha256": "92284CA5B67A5FD2FB24690F939D9D495A8444403D58C354B6FE41F83C21856A"
+  },
+  {
+    "prompt": "P30",
+    "source": "prompts/30-decidir-e-registrar.md",
+    "file": "copiar/P30.txt",
+    "sha256": "4FAEC6AF65288FD96BB3886CF0E5F07EB8C5A2023F797D24AA48BED23E4C7B1C"
+  },
+  {
+    "prompt": "P40",
+    "source": "prompts/40-retomar.md",
+    "file": "copiar/P40.txt",
+    "sha256": "98570D86E6BB587CEC72F0CFA983C38A4706498307C4661FEC53170D2C518274"
+  },
+  {
+    "prompt": "G01",
+    "source": "prompts/07-organizar-frentes.md",
+    "file": "copiar/G01.txt",
+    "sha256": "AFD1A1CF8BC5C4261D2796B71FDF1EFED2D51DAFC466A231C34DDF6E5B49C194"
+  },
+  {
+    "prompt": "P00-ANEXOS",
+    "source": "prompts/00-preparar-com-anexos.md",
+    "file": "copiar/P00-ANEXOS.txt",
+    "sha256": "08DC9A6A4161B49A4171E4F4704778A33D3CF61318A3C10B567FAF639643D073"
+  }
+]
